@@ -58,3 +58,6 @@ git clone https://github.com/yourusername/coin-collection-game.git
 
 # Open the project in Unity Hub
 # Press 'Play' to run in the Editor
+
+```
+unzip the Assts complressed file than try to run the project
