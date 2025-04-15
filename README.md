@@ -42,14 +42,6 @@ Roam through a stylized 3D world, collect scattered coins, and rack up your scor
 
 ---
 
-## 📸 Screenshots
-
-| Gameplay Preview | Coin Pickup |
-|------------------|-------------|
-| _Add Screenshot_ | _Add Screenshot_ |
-
----
-
 ## 🔧 Setup Instructions
 
 ```bash
@@ -58,6 +50,6 @@ git clone https://github.com/yourusername/coin-collection-game.git
 
 # Open the project in Unity Hub
 # Press 'Play' to run in the Editor
-
+# unzip the Assets complressed file than try to run the project
 ```
-unzip the Assts complressed file than try to run the project
+
